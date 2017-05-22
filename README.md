@@ -1,4 +1,4 @@
-# Asteroid-Assignment-Base
+# Asteroid-Assignment-Alex Hutchinson
 Initial skeleton for the assignment (semester-2 2016/17)
 
 This is the starting point for the Semester 2 assignment.
